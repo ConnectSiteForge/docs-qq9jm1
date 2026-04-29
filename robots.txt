@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-0i74ek.biggamingwin.sbs/sitemap.xml
